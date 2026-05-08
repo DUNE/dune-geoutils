@@ -1,4 +1,4 @@
-# dune-geoutils
+# dune-geo-utils
 Geometry utilities for DUNE's Phlex-based software stack
 
 ## Copyright and Licensing
